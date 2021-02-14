@@ -187,7 +187,7 @@ section h2 {
 .service-item {
     background-color: #fff;
     margin: 0 auto;
-    min-height: 345px;
+    min-height: 400px;
     padding: 30px 28px;
     transition: .5s ease;
     position: relative;
@@ -198,7 +198,7 @@ section h2 {
     border-radius: 50%;
     height: 105px;
     width: 105px;
-    line-height: 105px;
+    line-height: 85px;
     text-align: center;
     padding: 10px;
     display: inline-block;
