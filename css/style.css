@@ -225,8 +225,8 @@ section h2 {
 .sysetmaifild .tab-content p{font-size:13px;font-weight:500;line-height:1.69;color:#9b9b9b}
 .howtostartr{}
 
-.howtostartr .btn-warning,.howtostartr .btn-warning-outline{border-radius:2px;font-size:13px;padding:0 15px;font-weight:700;line-height:48px;border-color:#ff692e;text-shadow:initial}
-.howtostartr .btn-warning{background-color:#ff692e;color:#fff;}
+.howtostartr .btn-warning,.howtostartr .btn-warning-outline{border-radius:2px;font-size:13px;padding:0 15px;font-weight:700;line-height:48px;border-color:#2da5d9;text-shadow:initial}
+.howtostartr .btn-warning{background-color:#2da5d9;color:#fff;}
 .howtostartr .btn-warning-outline{background-color:transparent;color:#ff692e}
 .howtostartr .Rectangle-35{height:1px;opacity:.1;background-color:#44355b;width:100%;margin-top:39px;margin-bottom:44px}
 .howtostartr .queri{font-size:16px;line-height:1.81;color:#555}
@@ -291,7 +291,7 @@ section h2 {
 
 .choseprog .pricetage span{font-size:11px;color:#9b9b9b;font-weight:500}
 .choseprog .pricetage strong{float:right;font-size:18px;font-weight:700;color:#342e37}
-.choseprog .btn{border-radius:2px;background-color:#ff692e;font-size:16px;color:#fff;padding:0 15px;font-weight:700;line-height:48px;border-color:#ff692e;text-shadow:initial;width:100%; margin-bottom:20px;}
+.choseprog .btn{border-radius:2px;background-color:#2da5d9;font-size:16px;color:#fff;padding:0 15px;font-weight:700;line-height:48px;border-color:#2da5d9;text-shadow:initial;width:100%; margin-bottom:20px;}
 
 .program{box-shadow: 0 5px 15px 0  rgba(68,68,68,.1);padding: 18px 25px;}
 .faqss .col-md-12:nth-child(1) ~ * {
@@ -342,7 +342,7 @@ padding-left:40px;}
 
 
 .form-horizontal .btn.btn-warning.btn-block {
-    background-color: #FF692E;
+    background-color: #2da5d9;
     border: 0 none;
     color: #fff;
     display: inline-block;
