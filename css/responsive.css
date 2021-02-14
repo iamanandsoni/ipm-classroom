@@ -1,0 +1,465 @@
+@media screen and (max-width:768px) {
+.pad-t{ margin-top:30px;}
+.pdf-tabs li a.active:after {
+    top: 37px;
+    left: 42%;
+}
+.pdf-tabs li a {
+    padding: 9px 20px!important;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.offerapril h6 {
+    font-size: 14px;
+       font-weight: 400;
+    line-height: 18px;
+}
+.right-con-hed h3 {
+    font-size: 18px;
+   }
+   section h2 {
+    font-size: 22px;
+    line-height: 26px;
+    }
+	.copntheffil .col-md-4:nth-child(1) ~ * {
+    margin-top: 30px;
+}
+.feature-content {
+    min-height: inherit;
+}
+
+    .blankbgfor,
+    .left-cont-hed p br,
+    .testinomilas h2 br,
+    .top-exp-con p br {
+        display: none
+    }
+    .header-region {
+           padding: 30px 0;
+    }
+    
+    .navbar-brand {
+        height: initial;
+        padding: 0;
+        margin-left: 15px
+    }
+    .navbar-toggle {
+        margin-top: 9px;
+        margin-bottom: 8px
+    }
+    .left-cont-hed h2 {
+           margin-top: 10px;
+    font-size: 21px;
+    margin-bottom: 24px;
+    }
+    .left-cont-hed p {
+       margin-bottom: 10px;
+    font-size: 16px;
+    }
+    .left-cont-hed [class$=icon] strong {
+        padding-left: 0;
+        line-height: 1.22;
+        padding-top: 56px
+    }
+    [class*=clander] strong {
+        background-image: url(../img/cal.png)
+    }
+    .dark-region {
+        padding: 32px 0;
+        line-height: 1.69
+    }
+    .remove-margin {
+        margin-top: 36px
+    }
+    .remove-margin .row {
+        margin: 0
+    }
+    .dark-region strong {
+        font-weight: 700;
+        margin-bottom: 16px
+    }
+    .dark-region p {
+        font-weight: 500
+    }
+	.box {
+    
+    min-height: inherit;
+    
+}
+   
+    .top-exp-con p {
+        margin-bottom: 46px
+    }
+    .classescont {
+        padding-top: 72px;
+        padding-bottom: 52px
+    }
+    .classescont img {
+        display: inline-block!important
+    }
+    .classescont.copntheffil img {
+        margin-top: 0
+    }
+    .carousel-indicators {
+        bottom: 0;
+        margin-bottom: 0;
+        height: 10px
+    }
+    .carousel-indicators li {
+        background-color: #ddd;
+        margin: 0 4px;
+        border: 0;
+        border-radius: 50%;
+        vertical-align: top
+    }
+    .carousel-indicators .active {
+        background-color: #ff692e;
+        margin: 0 4px;
+        width: 10px;
+        height: 10px
+    }
+    .sysetmaifild {
+        padding-top: 0;
+        padding-bottom: 59px
+    }
+    .headinglef h3 {
+        line-height: 56px;
+        margin-bottom: 46px
+    }
+    .sysetmaifild .nav-tabs>li {
+        width: 100%;
+        margin: 0!important
+    }
+    .sysetmaifild .nav-tabs li p,
+    .sysetmaifild .nav-tabs li strong {
+        display: inline-block;
+        margin: 0;
+        line-height: 20px
+    }
+    .Read-all-FAQs,
+    .sysetmaifild .tab-content p {
+        margin-bottom: 0
+    }
+    .sysetmaifild .nav-tabs li a {
+        width: 100%;
+        background-image: none!important;
+        padding: 8px 0 8px 2px;
+        height: auto;
+        text-align: left;
+        border-bottom: 1px solid rgba(68, 53, 91, .1)!important
+    }
+    .sysetmaifild .nav-tabs li strong {
+        font-size: 16px;
+        color: #9b9b9b;
+        font-weight: initial
+    }
+    sysetmaifild .nav-tabs li br {
+        display: none!important
+    }
+    .sysetmaifild .nav-tabs li a:hover p,
+    .sysetmaifild .nav-tabs li a:hover strong,
+    .sysetmaifild .nav-tabs li.active a p,
+    .sysetmaifild .nav-tabs li.active a strong {
+        color: #342e37;
+        font-weight: 700
+    }
+    .sysetmaifild .nav-tabs li.active {
+        border-bottom: 1px solid #ff692e
+    }
+    .sysetmaifild .nav-tabs li.active:after {
+        position: absolute;
+        content: "";
+        height: 1px;
+        bottom: 0;
+        background-color: #ff692e;
+        width: 100%;
+        left: 0
+    }
+    .footeacord .panel-body ul li:after,
+    .navbar-nav .open .dropdown-menu>li>a:after {
+        content: "\f105";
+        font-family: FontAwesome
+    }
+    .sysetmaifild .tab-content {
+        margin-top: 45px
+    }
+    .sysetmaifild .tab-content [class*=col-]~* {
+        margin-top: 26px
+    }
+    .carousel-control.left {
+        left: 0
+    }
+    .carousel-control.right {
+        right: 15px
+    }
+    .testinomilas {
+        padding-top: 0px
+    }
+    .howtostartr p br {
+        display: none
+    }
+    .choseprog {
+        padding-bottom: 43px
+    }
+    .choseprog .classescont {
+        padding-top: 0px;
+        padding-bottom: 50px
+    }
+    .Read-all-FAQs {
+        margin-top: 37px
+    }
+    .program h5 {
+        margin-top: 32px;
+        margin-bottom: 10px
+    }
+    .choseprog .mobilacordin .whitebgcon {
+        padding: 49px 16px 32px
+    }
+    .mobilacordin .panel-group .panel {
+        margin: 0;
+        border-radius: 0;
+        box-shadow: initial;
+        padding: 16px 0;
+        border: 0;
+        border-bottom: 1px solid rgba(68, 53, 91, .2)
+    }
+    .mobilacordin .panel-default>.panel-heading {
+        background-color: transparent;
+        border: 0
+    }
+    .mobilacordin .panel-default>.panel-heading>a {
+        display: block;
+        width: 100%;
+        padding-right: 48px;
+        background-repeat: no-repeat;
+        background-position: right center;
+        background-image: url(../img/group-8.png)
+    }
+    .mobilacordin .panel-default>.panel-heading>a:focus,
+    .mobilacordin .panel-default>.panel-heading>a:hover {
+        text-decoration: none
+    }
+    .mobilacordin .panel-default>.panel-heading>a.collapsed {
+        background-image: url(../img/group-8-active.png)
+    }
+    .mobilacordin .panel-body {
+        border: 0!important;
+        padding-top: 28px
+    }
+    .mobilacordin .panel-heading h6 {
+        font-size: 14px;
+        margin: 0 0 10px;
+        color: #555;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+        overflow: hidden
+    }
+    .mobilacordin .panel-heading strong {
+        font-weight: 700;
+        margin-right: 11px;
+        color: #342e37;
+        font-size: 11px
+    }
+    .mobilacordin .panel-heading span {
+        color: #9b9b9b;
+        margin-right: 11px;
+        text-decoration: line-through;
+        font-size: 11px
+    }
+    .mobilacordin .panel-heading .orange {
+        color: #ff692e
+    }
+    .choseprog .checkicon .inercon {
+        background-position: left center;
+        padding-left: 28px;float: inherit;
+    }
+    .choseprog .checkicon {
+        margin-bottom: 0px
+    }
+    .choseprog .checkicon h4 {
+        line-height: 24px;
+        margin: 0
+    }
+    .choseprog .pricetbtn {
+        margin-top: 27px
+    }
+    .choseprog .btn {
+        line-height: 48px;
+    }
+    .navbar-nav .open .dropdown-menu>li>a {
+        line-height: 20px;
+        padding-left: 40px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+        position: relative
+    }
+    .navbar-nav .open .dropdown-menu>li>a:after {
+        color: #222;
+        font-size: 15px;
+        left: 18px;
+        position: absolute;
+        top: 3px
+    }
+    .footeacord .panel-default>.panel-heading a,
+    .payme h4 {
+        font-size: 13px;
+        text-transform: uppercase;
+        letter-spacing: 1.1px;
+        font-weight: 700
+    }
+    #footer {
+        background-image: url(../img/foot-bg.jpg);
+        background-position: 50%;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding-top: 40px;
+        border-top: 12px solid #f16137
+    }
+    .footeacord .panel-group {
+        margin-bottom: 0
+    }
+    .footeacord .panel-group .panel {
+        margin: 0 0 24px;
+        border: 0;
+        background: 0 0;
+        box-shadow: initial;
+        border-radius: 0
+    }
+    .footeacord .panel-default>.panel-heading {
+        background-color: transparent;
+        border: 0
+    }
+    .footeacord .panel-default>.panel-heading a {
+        display: block;
+        padding-right: 25px;
+        background-repeat: no-repeat;
+        background-position: right center;
+        line-height: 16px;
+        background-image: url(../img/down-arow.png)
+    }
+    .footeacord .panel-default>.panel-heading a.collapsed {
+        background-image: url(../img/line.png)
+    }
+    .footeacord .panel-default>.panel-heading a:focus,
+    .footeacord .panel-default>.panel-heading a:hover {
+        color: #ff692e;
+        outline: 0!important;
+        text-decoration: none
+    }
+    .footeacord .panel-body {
+        border-top: 0!important;
+        padding-top: 10px
+    }
+    .footeacord .panel-body ul {
+        padding-left: 15px;
+        margin-left: 10px;
+        line-height: 30px;
+        list-style: none
+    }
+    .payme h4 {
+        padding-right: 0;
+        margin: 0;
+        line-height: 32px;
+        color: #fff
+    }
+    .disclamer {
+        margin-top: 34px;
+        margin-bottom: 10px;
+        opacity: .6;
+        font-size: 11px;
+        line-height: 2.18;
+        color: #fff
+    }
+    .logofooter {
+        padding-top: 64px
+    }
+    .socials {
+        margin-top: 39px
+    }
+    .socials a {
+        margin: 0 12px
+    }
+    #myCarousel3 .panel-default {
+        margin-left: 0
+    }
+    .footeacord .panel-body ul li {
+        position: relative
+    }
+    .footeacord .panel-body ul li:after {
+        color: #fff;
+        font-size: 15px;
+        left: -15px;
+        position: absolute;
+        top: 0;
+        opacity: .2
+    }
+    #header {
+        margin: 0;
+        padding-top: 24px
+    }
+    #header .navbar-brand {
+        margin-left: 15px
+    }
+    /*.navbar-collapse {
+        background-color: #fff
+    }*/
+    #header.fixed-theme .whiteimg,
+    .fixedimg {
+        display: none
+    }
+    #header.fixed-theme .fixedimg {
+        display: block
+    }
+    #navbar>ul.nav:first-child {
+        padding-left: 0
+    }
+    #navbar .nav .dropdown>a {
+        color: #555;
+        font-weight: 700;
+        margin-right: 0;
+        padding-left: 0;
+        background-image: url(../img/down-arrow-black.png)
+    }
+    #header .navbar-nav>li>.dropdown-menu {
+        box-shadow: initial
+    }
+    .navbar-fixed-bottom .navbar-collapse,
+    .navbar-fixed-top .navbar-collapse {
+        margin-top: 15px
+    }
+    .navbar-right li+li {
+        margin-left: 0
+    }
+    #navbar>ul.nav {
+        margin-left: 0;
+        margin-right: 0
+    }
+    #header.fixed-theme .navbar-nav>li>.dropdown-menu {
+        margin-top: 0
+    }
+    .right-con-hed {
+        margin-top: 25px
+    }
+    .sysetmaifild .nav-tabs>li br {
+        display: none!important
+    }
+}
+
+.jcrouselslideco {
+    padding-bottom: 50px
+}
+
+.program-outer {
+    display: none
+}
+
+@media screen and (max-width:350px) {
+    .howtostartr .queri strong {
+        display: block
+    }
+    .payme .col-xs-6 {
+        width: 100%!important;
+        text-align: left
+    }
+}
