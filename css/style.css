@@ -67,6 +67,7 @@ body{    font-size: 15px;
 .feedback-block .inner-box .image img {width: 63px;margin: 0 auto;max-height: 63px;border-radius: 50%;border: 1px solid #d4d4d4;}
 .feedback-block .inner-box:hover {transition: 0.5s;border: 1px solid #ebebeb;}
 .feedback-block .inner-box p{ margin-bottom:10px;}
+.feedback-block .inner-box p span{ font-size: 18px; display: inline-block; margin-bottom: 10px;}
 
 .programs-table ul {
     margin: 0;
